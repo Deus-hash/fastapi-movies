@@ -1,0 +1,38 @@
+[
+  {
+    "username": "admin",
+    "session_token": "f85fe92e-8e3b-4395-b27c-ac17a145fdb7",
+    "login_time": "2025-11-22T10:24:06.185387",
+    "ip_address": "127.0.0.1"
+  },
+  {
+    "username": "admin",
+    "session_token": "287b25f0-1935-4c25-8a36-9e41f856dcc9",
+    "login_time": "2025-11-22T10:29:04.762692",
+    "ip_address": "127.0.0.1"
+  },
+  {
+    "username": "admin",
+    "session_token": "d842adcd-7602-4dd2-861f-708b1319aa07",
+    "login_time": "2025-11-22T10:29:34.297204",
+    "ip_address": "127.0.0.1"
+  },
+  {
+    "username": "admin",
+    "session_token": "bfb1a738-facb-440f-8b84-8e2535f4f795",
+    "login_time": "2025-11-22T10:31:05.394648",
+    "ip_address": "127.0.0.1"
+  },
+  {
+    "username": "admin",
+    "session_token": "d89c0776-2766-4eb1-8009-02a2525be3bc",
+    "login_time": "2025-11-22T10:32:39.057503",
+    "ip_address": "127.0.0.1"
+  },
+  {
+    "username": "admin",
+    "session_token": "7e6c38b1-b772-40a2-87e5-295282395a88",
+    "login_time": "2025-11-22T10:36:31.876403",
+    "ip_address": "127.0.0.1"
+  }
+]

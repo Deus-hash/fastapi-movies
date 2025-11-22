@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "test ",
+    "director": "I",
+    "year": 3025,
+    "budget": 999,
+    "oscar": true,
+    "description": "test",
+    "posterurl": "/static/poster_1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "z",
+    "director": "z",
+    "year": 12,
+    "budget": 12,
+    "oscar": true,
+    "description": "qwq",
+    "posterurl": "/static/poster_2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "xzx",
+    "director": "xzx",
+    "year": 32,
+    "budget": 12,
+    "oscar": false,
+    "description": "21",
+    "posterurl": "/static/poster_3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "1",
+    "director": "1",
+    "year": 1,
+    "budget": 1,
+    "oscar": false,
+    "description": "1",
+    "posterurl": "/static/poster_4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "z",
+    "director": "z",
+    "year": 1,
+    "budget": 2,
+    "oscar": true,
+    "description": "2",
+    "posterurl": "/static/poster_5.jpg"
+  }
+]
